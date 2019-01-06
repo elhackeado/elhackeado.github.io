@@ -1,4 +1,4 @@
-## Welcome to El Hackeado
+## Welcome to _El Hackeado_
 
 You can use the [editor on GitHub](https://github.com/elhackeado/elhackeado.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
